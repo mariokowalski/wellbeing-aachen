@@ -6,10 +6,10 @@ uid: 3
 menu:
   main:
     name: Körperbehandlungen
-    weight: 1
+    weight: 2
 
 ---
-## Innehalten \~Verweilen\~Genießen
+## Innehalten - Verweilen - Genießen
 
 Körperlich- seelisches Wohlergehen durch kontinuierliches Geben und Nehmen in sanfter Körperarbeit
 
@@ -19,7 +19,7 @@ Die Zuwendung durch intuitives und sensitives Berühren schafft einen vertrauens
 
 Angestautes kann abfließen und Spannungsgefühle reduzieren sich: der Körper findet eine neue Ausrichtung und lässt die Seele wissen, wie wohl er sich fühlt.
 
-### **Anwendungen**
+### Anwendungen
 
 **Harmonisierende und energetische Massagen** lindern Beschwerden und tragen zur Steigerung von Vitalität und Bewegungsfreiheit bei. Klar und einfühlsam – die Berührung in der Körperarbeit spricht nicht nur die Körpersysteme, sondern auch ein innerliches Befinden und die Sinne an. Zufriedenheit und ein frischer Lebensimpuls werden spürbar.
 

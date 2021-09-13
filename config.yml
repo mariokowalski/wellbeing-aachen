@@ -1,11 +1,11 @@
 ---
-baseURL: http://example.org/
-languageCode: en-us
-title: Hugo Ananke Forestry Starter
+baseURL: http://wellbeing-aachen.de/
+languageCode: de-DE
+title: Wellbeing-Aachen | Paula Aguirre
 module:
   imports:
   - path: github.com/theNewDynamic/gohugo-theme-ananke
-DefaultContentLanguage: en
+DefaultContentLanguage: de
 SectionPagesMenu: main
 Paginate: 3
 googleAnalytics: ''
@@ -16,10 +16,10 @@ sitemap:
   filename: sitemap.xml
 params:
   favicon: ''
-  site_logo: ''
-  description: The last theme you'll ever need. Maybe.
+  site_logo: 'images/corporate/logo.png'
+  description: Wellbeing Aachen - Wohlfühlen hat eine neue Adresse.
   facebook: ''
-  twitter: https://twitter.com/GoHugoIO
+  twitter: 
   instagram: ''
   youtube: ''
   github: ''
@@ -29,12 +29,14 @@ params:
   slack: ''
   stackoverflow: ''
   rss: ''
-  background_color_class: bg-black
-  featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+  background_color_class: bg-darkgreen
+  featured_image: "/images/default/wellbeing-aachen.jpg"
   recent_posts_number: 2
 menu:
   main:
   - name: Paula Aguirre
     weight: 3
-  - name: Focusing
+  - name: Neu: Focusing
     weight: 2
+  - name: Behandlungen
+    weight: 1

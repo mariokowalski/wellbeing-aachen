@@ -1,0 +1,31 @@
+---
+label: Behandlung
+hide_body: true
+display_field: title
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: featured_image
+  label: featured_image
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- name: dauer
+  type: text
+  config:
+    required: false
+  label: Dauer
+- name: preis
+  type: text
+  config:
+    required: false
+  label: Preis
+  description: 'Preis der Behandlung: 30 EUR'

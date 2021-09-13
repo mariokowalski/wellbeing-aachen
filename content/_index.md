@@ -1,6 +1,6 @@
 ---
 title: Wellbeing Aachen
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/wellbeing-aachen.jpg"
 description: Wohlfühlen hat eine neue Adresse
 uid: 3
 menu:
@@ -19,10 +19,10 @@ Die Zuwendung durch intuitives und sensitives Berühren schafft einen vertrauens
 
 Angestautes kann abfließen und Spannungsgefühle reduzieren sich: der Körper findet eine neue Ausrichtung und lässt die Seele wissen, wie wohl er sich fühlt.
 
-### Anwendungen
+### [Anwendungen](behandlungen/ "Anwendungen")
 
 **Harmonisierende und energetische Massagen** lindern Beschwerden und tragen zur Steigerung von Vitalität und Bewegungsfreiheit bei. Klar und einfühlsam – die Berührung in der Körperarbeit spricht nicht nur die Körpersysteme, sondern auch ein innerliches Befinden und die Sinne an. Zufriedenheit und ein frischer Lebensimpuls werden spürbar.
 
 Schmerzende Körperstellen werden in der **Triggerarbeit** in Kontakt mit dem Klienten klar angesprochen, damit sich die Spannung reduziert. Dadurch werden eigene Selbstheilungskräfte mobilisiert.
 
-In der **Focusing-Sitzung** finden Körperwahrnehmungen einen Weg ins Bewusstsein. Ein Erleben und Annehmen der Körperresonanz auf bestimmte Themen können Erleichterung und Erkennen in eine Lebenssituation bringen.
+In der [**Focusing-Sitzung**](/focusing "Focusing") finden Körperwahrnehmungen einen Weg ins Bewusstsein. Ein Erleben und Annehmen der Körperresonanz auf bestimmte Themen können Erleichterung und Erkennen in eine Lebenssituation bringen.

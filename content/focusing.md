@@ -2,6 +2,7 @@
 description = ""
 featured_image = ""
 title = "Focusing"
+uid = 4
 
 +++
 ## _Innenschau in der Stille_

@@ -2,13 +2,14 @@
 title: Wellbeing Aachen
 featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 description: Wohlfühlen hat eine neue Adresse
+uid: 3
 menu:
   main:
     name: Körperbehandlungen
     weight: 1
 
 ---
-## **_Innehalten Verweilen Genießen_**
+## Innehalten \~Verweilen\~Genießen
 
 Körperlich- seelisches Wohlergehen durch kontinuierliches Geben und Nehmen in sanfter Körperarbeit
 

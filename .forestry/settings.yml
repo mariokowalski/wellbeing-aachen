@@ -5,6 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/behandlungen
+  label: Behandlungen
+  create: all
+  match: "**/*"
+  templates:
+  - behandlung
+- type: directory
   path: content
   label: Pages
   create: all

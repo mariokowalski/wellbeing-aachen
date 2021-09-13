@@ -2,6 +2,10 @@
 title: Wellbeing Aachen
 featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 description: Wohlfühlen hat eine Neue Adresse
+menu:
+  main:
+    name: Körperbehandlungen
+    weight: 1
 
 ---
 ## **_Innehalten Verweilen Genießen_**

@@ -30,4 +30,6 @@ fields:
   name: date
   label: date
 pages:
+- content/Behandlungen/ruckenmassage-deluxe.md
+- content/Behandlungen/ruckenmassage.md
 - content/ganzheitliche-fussmassage.md

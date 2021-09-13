@@ -1,8 +1,8 @@
 ---
-title: Wellbeing Aachen
+title: Paula Aguirre - Wellbeing Aachen - Home
 featured_image: "/images/wellbeing-aachen.jpg"
 description: Wohlfühlen hat eine neue Adresse
-uid: 3
+uid: 1
 menu:
   main:
     name: Körperbehandlungen

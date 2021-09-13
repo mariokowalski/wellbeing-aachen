@@ -3,15 +3,6 @@ label: Behandlung
 hide_body: true
 display_field: title
 fields:
-- type: datetime
-  name: date
-  label: date
-- type: file
-  name: featured_image
-  label: featured_image
-- type: list
-  name: tags
-  label: tags
 - type: text
   name: title
   label: title
@@ -29,3 +20,14 @@ fields:
     required: false
   label: Preis
   description: 'Preis der Behandlung: 30 EUR'
+- type: file
+  name: featured_image
+  label: featured_image
+- type: list
+  name: tags
+  label: tags
+- type: datetime
+  name: date
+  label: date
+pages:
+- content/ganzheitliche-fussmassage.md
